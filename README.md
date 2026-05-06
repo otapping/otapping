@@ -82,14 +82,6 @@ Right now, I’m focused on:
 - Improving my knowledge of systems and infrastructure  
 - Developing practical problem-solving skills  
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=otapping&show_icons=true&theme=tokyonight" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=otapping&layout=compact&theme=tokyonight" height="165" />
-</p>
 
 ---
 
