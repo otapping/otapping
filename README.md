@@ -1,69 +1,113 @@
-# Hi, I'm Oliver Tapping
+<h1 align="center">Hi, I'm Oliver Tapping 👋</h1>
+<h3 align="center">Student • Tech Enthusiast • Builder of Practical Systems</h3>
 
-Welcome to my GitHub.
-
-I'm a UK student with a strong interest in **computer science**, **IT systems**, **networking**, **automation**, and **practical tech projects**. I like building things that are useful, efficient, and actually solve a problem rather than just looking good on paper.
-
-## About Me
-
-* Studying my GCSEs, with a focus on subjects including **Computer Science** and **Creative iMedia**
-* Interested in **software**, **systems administration**, **network storage**, **cloud services**, and **digital workflows**
-* Enjoy working on projects involving **NAS systems**, **home lab setups**, **network configuration**, and **automation**
-* I like structured problem-solving, improving existing systems, and making technology work properly in real-world use
-
-## What I'm Interested In
-
-* Python programming
-* Networking and infrastructure
-* NAS and self-hosted systems
-* Cloudflare and remote access tools
-* Automation and workflow design
-* UI, app, and system concepts
-* Digital media and technical project development
-
-## Projects I Like Building
-
-* Tools that make everyday tasks faster or easier
-* Systems that connect multiple services together
-* Home lab and storage solutions
-* Organised dashboards and management tools
-* School and productivity-based software ideas
-* Practical utilities with clear real-world value
-
-## Experience
-
-I have completed work experience at **BOXTEC**, where I gained experience in:
-
-* Fulfilment operations
-* Shipping workflows
-* POS machine servicing
-* Understanding practical business and technical processes
-
-## Skills
-
-* Python
-* PowerPoint and digital presentation work
-* Technical troubleshooting
-* Workflow thinking
-* Digital information handling
-* Image generation tools
-* Problem solving
-
-## Current Focus
-
-Right now, I’m focused on improving my technical knowledge, building stronger projects, and developing work that reflects both **practical ability** and **attention to detail**.
-
-## Goals
-
-* Build useful and polished software projects
-* Expand my GitHub with more real examples of my work
-* Develop stronger experience in systems, software, and infrastructure
-* Keep improving technical and problem-solving skills
-
-## Contact
-
-GitHub is where I’ll be sharing projects, ideas, and technical work as I keep building.
+<p align="center">
+  <a href="https://github.com/YOUR-USERNAME">
+    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" alt="GitHub Profile" />
+  </a>
+  <img src="https://img.shields.io/badge/Based%20in-UK-blue?style=for-the-badge" alt="Based in UK" />
+  <img src="https://img.shields.io/badge/Focus-Computer%20Science-success?style=for-the-badge" alt="Focus Computer Science" />
+</p>
 
 ---
 
-> Clean builds. Practical systems. Real-world use.
+## 🚀 About Me
+
+I’m **Oliver**, a UK student with a strong interest in **computer science**, **IT systems**, **networking**, **automation**, and **practical technology**.
+
+I enjoy building projects that are actually useful — whether that’s improving workflows, setting up systems, solving technical problems, or designing tools that make life easier.
+
+- 🎓 Studying GCSE subjects including **Computer Science** and **Creative iMedia**
+- 💻 Interested in **software**, **networking**, **self-hosting**, and **digital systems**
+- 🛠️ Enjoy working on **NAS setups**, **home lab projects**, and **automation**
+- 📈 Focused on improving technical skills and building real-world projects
+
+---
+
+## 🧠 What I’m Interested In
+
+- Python programming  
+- Networking & infrastructure  
+- NAS & self-hosted systems  
+- Automation & workflow design  
+- Cloud services & remote access  
+- App and system ideas  
+- Technical troubleshooting  
+- Digital media and project development  
+
+---
+
+## 🛠️ Tech & Tools
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Networking-Learning-informational?style=flat-square" />
+  <img src="https://img.shields.io/badge/NAS-Self--Hosting-blueviolet?style=flat-square" />
+  <img src="https://img.shields.io/badge/Automation-Workflows-success?style=flat-square" />
+</p>
+
+---
+
+## 📂 What I Like Building
+
+- Practical tools for everyday use  
+- Organised systems and dashboards  
+- Home lab and storage solutions  
+- Productivity-based software ideas  
+- Utilities that solve real problems  
+- Projects that combine simplicity and usefulness  
+
+---
+
+## 💼 Experience
+
+### BOXTEC — Work Experience
+Gained experience in:
+
+- Fulfilment operations  
+- Shipping workflows  
+- POS machine servicing  
+- Understanding practical business and technical processes  
+
+---
+
+## 🎯 Current Focus
+
+Right now, I’m focused on:
+
+- Building stronger technical projects  
+- Expanding my GitHub with real work  
+- Improving my knowledge of systems and infrastructure  
+- Developing practical problem-solving skills  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=tokyonight" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=tokyonight" height="165" />
+</p>
+
+---
+
+## 📌 Goals
+
+- Create polished and useful projects  
+- Keep learning and improving  
+- Build a GitHub profile that shows real ability  
+- Develop skills in software, systems, and infrastructure  
+
+---
+
+## 📫 Connect
+
+- GitHub: [@otapping](https://github.com/otapping)
+
+---
+
+<p align="center">
+  <i>Clean builds. Practical systems. Real-world use.</i>
+</p>
