@@ -2,7 +2,7 @@
 <h3 align="center">Student • Tech Enthusiast • Builder of Practical Systems</h3>
 
 <p align="center">
-  <a href="https://github.com/YOUR-USERNAME">
+  <a href="https://github.com/otapping">
     <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" alt="GitHub Profile" />
   </a>
   <img src="https://img.shields.io/badge/Based%20in-UK-blue?style=for-the-badge" alt="Based in UK" />
@@ -87,8 +87,8 @@ Right now, I’m focused on:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=tokyonight" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=tokyonight" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=otapping&show_icons=true&theme=tokyonight" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=otapping&layout=compact&theme=tokyonight" height="165" />
 </p>
 
 ---
