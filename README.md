@@ -80,7 +80,8 @@ Right now, I’m focused on:
 - Building stronger technical projects  
 - Expanding my GitHub with real work  
 - Improving my knowledge of systems and infrastructure  
-- Developing practical problem-solving skills  
+- Developing practical problem-solving skills
+- Creating a Recruitment Sandbox Application (coming soon)
 
 
 ---
